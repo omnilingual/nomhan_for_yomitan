@@ -1,7 +1,10 @@
 {
     "author": "Elliot Chen (omnisch@outlook.com)",
     "description": "Tiếng Việt Nôm Hán, Characters in Vietnamese",
+    "downloadUrl": "https://github.com/omnilingual/nomhan-for-yomitan/releases/download/1.0/nomhan_for_yomitan_1.0.zip",
     "format": 3,
-    "revision": "aoyama_nomhan_alpha1.0",
+    "indexUrl": "https://github.com/omnilingual/nomhan-for-yomitan/releases/latest/download/nomhan_index.json",
+    "isUpdatable": true,
+    "revision": "aoyama_nomhan_1.0",
     "title": "Nôm Hán"
 }
